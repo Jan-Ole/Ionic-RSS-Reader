@@ -1,0 +1,13 @@
+2015-09-05 10:22:34.192 RSS[2566:399918] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/jan-ole/Library/Developer/CoreSimulator/Devices/851CDFD2-002C-4B65-8FF2-628A4349BB3B/data/Containers/Data/Application/CF70403C-BA45-4E0C-8F8C-EDA049DDF8AD/Library/Cookies/Cookies.binarycookies
+2015-09-05 10:22:34.306 RSS[2566:399918] Apache Cordova native platform version 3.8.0 is starting.
+2015-09-05 10:22:34.306 RSS[2566:399918] Multi-tasking -> Device: YES, App: YES
+2015-09-05 10:22:34.309 RSS[2566:399918] Unlimited access to network resources
+2015-09-05 10:22:34.427 RSS[2566:399918] [CDVTimer][keyboard] 0.086010ms
+2015-09-05 10:22:34.487 RSS[2566:399918] [CDVTimer][splashscreen] 59.912026ms
+2015-09-05 10:22:34.488 RSS[2566:399918] [CDVTimer][TotalPluginStartup] 61.082959ms
+2015-09-05 10:22:34.913 RSS[2566:399918] Resetting plugins due to page load.
+2015-09-05 10:22:35.266 RSS[2566:399918] Finished load of: http://192.168.178.22:8100/
+2015-09-05 10:22:35.519 RSS[2566:399918] ERROR: null
+2015-09-05 10:22:37.952 RSS[2566:399918] Resetting plugins due to page load.
+2015-09-05 10:22:38.079 RSS[2566:399918] Finished load of: http://192.168.178.22:8100/?restart=546750
+2015-09-05 10:22:38.676 RSS[2566:399918] ERROR: null
